@@ -1,51 +1,52 @@
-# Pregnancy-HealthTech-Innovation-competition
-Innovative health management service for pregnant women, integrating exercise data and business models (Cardif InsurHack Award).
-# 孕(運)轉乾坤：孕期女性健康管理服務提案
+# 孕(運)轉乾坤險：客製化凍卵保險服務提案
 
 ![Award](https://img.shields.io/badge/Award-Honorable_Mention-orange.svg)
 ![Event](https://img.shields.io/badge/Competition-Cardif_InsurHack-blue.svg)
-![Category](https://img.shields.io/badge/Category-HealthTech_/_InsurTech-green.svg)
+![Category](https://img.shields.io/badge/Category-InsurTech_/_HealthTech-green.svg)
 
-本專案於 **法國巴黎人壽創新創業競賽 (Cardif InsurHack)** 中榮獲 **佳作**。專案核心在於建構一個專為孕期女性設計的數位健康管理生態系統，透過整合穿戴式裝置的運動數據與創新的商業模式，解決孕期運動安全顧慮並提升健康管理動機。
+本專案於 **法國巴黎人壽創新創業競賽 (Cardif InsurHack)** 中榮獲 **佳作**。
+專案核心旨在打破傳統保險限制，為 **菁英族群女性**、**癌症腫瘤患者** 與 **LGBTQ+ 群體** 打造全方位的「凍卵保險」方案，解決生殖主權與未來生育風險管理之痛點。
 
----
-
-## 💡 核心動機 (Motivation)
-孕期女性常面臨「運動強度難以拿捏」與「健康資訊碎片化」的痛點。本專案透過數據導向的方案，將「安全運動」與「保險誘因」結合，旨在降低妊娠併發症風險，同時為保險公司精準掌握健康風險。
+ **專案介紹影片**: [點此觀看 YouTube](https://www.youtube.com/watch?v=pNbraVofeAU)
 
 ---
 
-## 🚀 服務核心功能 (Key Features)
+## 核心動機
 
-### 1. 數據整合監測
-* **動態運動處方**：整合穿戴裝置數據，根據孕期不同階段自動調整建議運動強度。
-* **生理指標追蹤**：監控心率、血氧及活動量，即時預警異常生理狀態。
+隨著晚婚趨勢、醫療技術進步以及多元平權意識抬頭，生育決策已不再受限於傳統生理年齡。然而，凍卵的高額費用與手術風險仍是主要門檻：
+* **菁英女性**：面對事業黃金期與生理時鐘的衝突，需對沖「未來生育力下降」的風險。
+* **癌症患者**：在放化療前，需及時保存生育能力，面臨緊急的財務壓力。
+* **LGBTQ+ 群體**：為單身者或同性伴侶提供更具包容性的家庭建構金融路徑。
 
-### 2. 創新商業模式 (Business Model)
-* **B2B2C 模式**：與保險公司合作，將健康行為轉化為保險費率折扣或健康獎勵。
-* **生態系整合**：串聯婦產科診所與專業產後護理機構，提供一站式健康服務。
-
-### 3. 使用者體驗 (UX Design)
-* **情感化介面**：設計符合孕期心理需求的溫暖介面與社群互助系統，提升黏著度。
+本提案透過數據導向的保險精算，將「凍卵醫療」與「風險保障」結合，實現金融賦權。
 
 ---
 
-## 📊 技術與架構 (Focus & Technology)
-* **Data Integration**: Wearable Device API, Real-time Activity Tracking.
-* **Analysis**: User Risk Profiling, Exercise Safety Algorithm.
-* **Business Strategy**: Business Model Canvas (BMC), Value Proposition Design.
+## 服務核心功能 
+
+### 1. 差異化風險精算方案 (Customized Insurance Structure)
+* **醫療補償機制**：涵蓋凍卵手術併發症（如卵巢過度刺激症候群 OHSS）與二次手術取卵費用補償。
+* **資產保值服務**：針對癌症患者提供緊急醫療凍卵專項津貼，降低醫療介入導致的遺憾。
+
+### 2. 生態系整合服務 (Ecosystem Integration)
+* **B2B2C 合作模式**：與專業生殖醫學中心串聯，提供保險費率優惠或分期零利率方案。
+
+### 3. 數位風險評估 (Digital Risk Profiling)
+* **健康數據驅動**：結合生理指標評估凍卵成功率，動態調整保費與給付級別，優化保險公司的核保效能。
 
 ---
 
-## 📂 儲存庫指南
-* **`docs/`**: 可查閱 [完整提案企劃書](docs/Proposal_Full_Text.pdf) 與 [決賽 Pitch 簡報](docs/Presentation_Slides.pdf)。
-* **`assets/`**: 包含服務流程圖與商業模式畫布。
+## 技術與架構 
+
+* **InsurTech Logic**: 針對非傳統風險（生育保存）建立精算邏輯。
+* **Business Strategy**: 商業模式畫布 (BMC) 分析，定位利基市場（Niche Market）。
+* **Regulatory Compliance**: 符合金管會沙盒創新思維，探討特定群體的保險可得性。
 
 ---
 
-## 🏅 獲獎紀錄
+## 獲獎紀錄
 * **競賽名稱**：法國巴黎人壽創新創業競賽 (Cardif InsurHack)
 * **獲獎獎項**：佳作
 
 ---
-📫 **聯絡資訊**: [raycheng940629@gmail.com](mailto:raycheng940629@gmail.com)
+ **聯絡資訊**: [raycheng940629@gmail.com](mailto:raycheng940629@gmail.com)
