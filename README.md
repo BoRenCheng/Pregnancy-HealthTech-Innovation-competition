@@ -8,7 +8,7 @@
 專案核心旨在打破傳統保險限制，為 **菁英族群女性**、**癌症腫瘤患者** 與 **LGBTQ+ 群體** 打造全方位的「凍卵保險」方案，解決生殖主權與未來生育風險管理之痛點。
 
  **專案介紹影片**: [點此觀看 YouTube](https://www.youtube.com/watch?v=pNbraVofeAU)
-
+**互動式原型展示**: [點此進入 Figma UI 介面](https://www.figma.com/proto/a0MzwQ99qnZIznsmEmo6Nu/%E5%87%8D%E5%8D%B5APP--UI%E4%BB%8B%E9%9D%A2?node-id=516-2265&starting-point-node-id=303%3A3047)
 ---
 
 ## 核心動機
@@ -33,7 +33,12 @@
 
 ### 3. 數位風險評估 (Digital Risk Profiling)
 * **健康數據驅動**：結合生理指標評估凍卵成功率，動態調整保費與給付級別，優化保險公司的核保效能。
-
+  
+### 4. 介面設計 (UI/UX Design)
+為了完整呈現保險創新提案的數位體驗，我們特別製作了 **「凍卵保險 APP」互動式原型**。
+* **使用者體驗優化**：模擬從「線上風險評估」、「方案選擇」到「術後健康監測」的完整數位旅程。
+* **數據視覺化**：將複雜的保險條款與生理數據簡化為直觀的儀表板。
+* **[點此體驗 Figma 互動原型]**(https://www.figma.com/proto/a0MzwQ99qnZIznsmEmo6Nu/%E5%87%8D%E5%8D%B5APP--UI%E4%BB%8B%E9%9D%A2?node-id=516-2265&starting-point-node-id=303%3A3047)
 ---
 
 ## 技術與架構 
