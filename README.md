@@ -7,9 +7,9 @@
 本專案於 **法國巴黎人壽創新創業競賽 (Cardif InsurHack)** 中榮獲 **佳作**。
 專案核心旨在打破傳統保險限制，為 **菁英族群女性**、**癌症腫瘤患者** 與 **LGBTQ+ 群體** 打造全方位的「凍卵保險」方案，解決生殖主權與未來生育風險管理之痛點。
 
-**專案介紹影片**: [點此觀看 YouTube](https://www.youtube.com/watch?v=pNbraVofeAU)
+ **專案介紹影片**: [點此觀看 YouTube](https://www.youtube.com/watch?v=pNbraVofeAU)
  
-**互動式原型展示**: [點此進入 Figma UI 介面](https://www.figma.com/proto/a0MzwQ99qnZIznsmEmo6Nu/%E5%87%8D%E5%8D%B5APP--UI%E4%BB%8B%E9%9D%A2?node-id=516-2265&starting-point-node-id=303%3A3047)
+ **互動式原型展示**: [點此進入 Figma UI 介面](https://www.figma.com/proto/a0MzwQ99qnZIznsmEmo6Nu/%E5%87%8D%E5%8D%B5APP--UI%E4%BB%8B%E9%9D%A2?node-id=516-2265&starting-point-node-id=303%3A3047)
 ---
 
 ## 核心動機
