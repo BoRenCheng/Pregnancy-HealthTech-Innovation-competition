@@ -11,7 +11,7 @@
  
  **互動式原型展示**: [點此進入 Figma UI 介面](https://www.figma.com/proto/a0MzwQ99qnZIznsmEmo6Nu/%E5%87%8D%E5%8D%B5APP--UI%E4%BB%8B%E9%9D%A2?node-id=516-2265&starting-point-node-id=303%3A3047)
  
- **網站展示**: [點此進入 網站一站式服務]( https://egg-freeze-insurance-web.onrender.com/login)
+ **網站展示**: [點此進入 網站一站式服務]( https://egg-freeze-insurance-web.onrender.com/login)([網站說明Click here](https://github.com/BoRenCheng/egg-freeze-insurance-web))
  
 ---
 
