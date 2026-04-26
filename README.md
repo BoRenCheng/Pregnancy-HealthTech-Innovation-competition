@@ -51,3 +51,10 @@
 
 ---
  **聯絡資訊**: [raycheng940629@gmail.com](mailto:raycheng940629@gmail.com)
+
+ ---
+## 授權
+Copyright (c) 2026 Bo-Ren Cheng(BoRenCheng)
+
+本專案採用 MIT License 授權。
+
